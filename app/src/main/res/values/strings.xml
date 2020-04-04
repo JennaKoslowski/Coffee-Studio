@@ -1,9 +1,10 @@
 <resources>
     <string name="app_name">Coffee Studio</string>
-    <string name="phone">(715)-341-3088</string>
+    <string name="phone">(715)–341–3088</string>
     <string name="hours">Open daily 7 a.m. to 7 p.m.</string>
     <string name="address">1100 Main Street, Stevens Point, WI</string>
-    <string name="description">Coffee Studio is a locally-owned coffee shop based out of Stevens Point, WI.
+    <string name="description">Coffee Studio is a locally—owned coffee shop based out of Stevens Point, WI.
         Most notable menu item is a nutella frappachino with homemade whip cream on the top.
         Located downtown it is a study spot for students throughout the year and an amazing place to gather friends and family.</string>
+    <string name="img">view of store from street</string>
 </resources>
