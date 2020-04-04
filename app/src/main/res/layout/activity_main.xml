@@ -17,6 +17,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:text="@string/phone"
+        android:autoLink="phone"
         android:layout_weight="1"
         android:textSize="38sp"
         android:gravity="center_horizontal"/>
@@ -31,6 +32,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:text="@string/address"
+        android:autoLink="map"
         android:layout_weight="1"
         android:textSize="20sp"
         android:gravity="center_horizontal"/>
